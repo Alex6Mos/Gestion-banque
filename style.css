@@ -1,0 +1,85 @@
+body
+{
+    background-color:white;
+    height: 15 * vh;
+}
+
+#menu a
+{
+    text-decoration: none;
+    color: white;
+    /* font-size: 35px; */
+}
+
+#menu ul
+{
+    padding-top: 0.5%;
+}
+#h2Con
+{
+    margin-top: 13%;
+    text-align: center;
+    color: rgb(77, 77, 162);
+}
+#menu
+{
+    height: 50px;
+}
+
+footer
+{
+    padding-bottom: 0%;
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+#foot
+{
+    display: inline;
+    color: white;
+}
+
+#foot strong
+{
+    margin-right: 10%;
+}
+#menu li
+{
+    list-style: none;
+    display: inline;
+    margin: 0.5%;
+    padding-top: 15%;    
+}
+
+form
+{
+    margin-left: 46%;
+}
+header
+{
+    background-color: black;
+}
+
+.btn-primary
+{
+    background-color: rgb(107, 107, 206); /*   rgb(77, 77, 162)*/
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    color:white;
+}
+
+table
+{
+   font-size: 1.5rem; 
+   margin-right: 4%;
+   margin-left: 4%;
+}
+th
+{
+    background-color: rgb(107, 107, 206);
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    width: 1%;
+}
